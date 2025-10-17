@@ -1,0 +1,6 @@
+[submodule "ZigHaven_Client"]
+	path = ZigHaven_Client
+	url = https://github.com/patrickscheips/ZigHaven_Client.git
+[submodule "ZigHaven_Server"]
+	path = ZigHaven_Server
+	url = https://github.com/patrickscheips/ZigHaven_Server.git
